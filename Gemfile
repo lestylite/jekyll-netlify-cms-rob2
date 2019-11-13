@@ -16,6 +16,7 @@ gem "jekyll", "~> 3.8"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 gem "minima", "~> 2.5"
+gem "ed."
 gem "concurrent-ruby", "~> 1.1.1"
 
 # If you have any plugins, put them here!
